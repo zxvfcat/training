@@ -1,3 +1,3 @@
 console.log('t')
-console.log()
+console.log('t')
 console.log('test')
