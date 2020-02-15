@@ -1,5 +1,3 @@
-console.log('t');
-
-
-
-
+console.log('t')
+console.log()
+console.log('test')
